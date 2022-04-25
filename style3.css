@@ -1,0 +1,18 @@
+@font-face{
+	font-family: 'font1';
+	src: url('Mars/Mars.ttf');
+
+}body{
+    background-image: url('images/brief-bg.gif');
+    background-size:cover;
+    font-family: 'font1';
+    color: white;
+}
+
+.center {
+    border: 20px solid green;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
