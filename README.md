@@ -15,4 +15,4 @@ Wireframe:
 
 ## Reflection:
 
-We believe that we have created a website that bookends our initial concept. We are satisfied with the final look and feel of our website, in the sense that it completely captures the futuristic feel and an outer-worldly theme.
+We believe that we have created a website that bookends our initial concept. We are satisfied with the final look and feel of our website, in the sense that it completely succeeds in capturing the futuristic feel and an outer-worldly theme. We are happy with the interesting idea we came up with in the first place. It gave us a clarity on the kind of experience / theme we wanted to use.
