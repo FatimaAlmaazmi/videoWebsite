@@ -6,7 +6,8 @@ Project Description: Our project is about an ET (Extraterrestrial) agent named B
 
 ## Process:
 
-We first started brainstorming ideas for the video, and we decided to create a fake documentary that had comedic elements (option 2). 
+We first started brainstorming ideas for the video, and we decided to create a fake documentary that had comedic elements (option 2).
+The next stage was coming up with a script for the video, which was then split into three phases.
 We then decided on a wireframe for the website, and how to include user interactivity. We wanted to have the users to first be introduced to the character Bow, and then move on to the video. We divided our tasks equally, where each one had separate responsibilities i.e. creating video, editing video, making the website, and writing the documentation.
 
 Wireframe:
